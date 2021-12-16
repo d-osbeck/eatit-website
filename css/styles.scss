@@ -81,7 +81,7 @@ a {
   width: 150px;
 }
 .hero__image {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/hero.jpeg'), center, no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/hero.webp'), center, no-repeat;
   background-size: cover;
   height: 100vh;
 }
@@ -159,7 +159,7 @@ a {
 }
 /* Main */
 .main__img {
-  background-image: url('../img/main.png');
+  background-image: url('../img/main.webp');
   background-size: cover;
   background-position: center;
   height: 24rem;

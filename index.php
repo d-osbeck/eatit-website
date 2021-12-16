@@ -18,8 +18,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100&display=swap" rel="stylesheet">
     <link rel="preload" as="image" href="img/hero.webp">
     <link rel="preload" as="image" href="img/mockup.webp">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"></head>
 <body class="bg-primary">
 <section class="hero">
     <div class="hero__image text-hero-text d-lg-flex align-items-center justify-content-center pt-2 px-md-5 pt-xl-0">

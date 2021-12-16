@@ -3,26 +3,23 @@
 <head>
     <meta charset="utf-8">
     <title>Eat it - Nytårsforsættet - det er svært at holde, men hjælpen er på vej!</title>
-
     <meta name="robots" content="All">
     <meta name="author" content="Eat it">
     <meta name="copyright" content="© Eat it 2021. All Rights Reserved">
-    <meta name="keywords" content="">
+    <meta name="keywords" content="opskrifter, madopskrifter, aftensmad, madrester, madspild">
     <meta name="og:title" content="Nytårsforsættet">
     <meta name="og:description" content="Det er svært at holde, men bare rolig, hjælpen er på vej!">
     <meta name="og:type" content="article">
-
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/blog.css" rel="stylesheet" type="text/css">
-
+    <link rel="icon" href="img/Favicon.png" type="icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body class="bg-primary">
-
 <header class="nav">
     <div class="home__button__container container d-flex justify-content-center">
         <a href="index.php">
@@ -30,7 +27,6 @@
         </a>
     </div>
 </header>
-
 <section class="blog__main">
     <div class="blog__main__header container px-4">
         <h1 class="blog__title display-2 fw-bold">Nytårsforsættet - det er svært at holde, men hjælpen er på vej!</h1>
@@ -41,9 +37,8 @@
         </div>
         <div class="blog__line__divider"></div>
     </div>
-
     <div class="blog__main__content container px-4">
-        <img src="img/card-2.jpg" alt="spar penge" class="mt-5">
+        <img src="img/stole.png" alt="spar penge" class="mt-5">
         <p class="blog__text fs-5 my-5">
             Vi kender begge 2 nytårsforsættet…. Den gode intention, indfaldet, det vi burde gøre… Det holder en uge og så er vi helt tilbage i den gamle rumle.
             <br><br>
@@ -77,11 +72,9 @@
         <div class="blog__line__divider"></div>
     </div>
 </section>
-
 <section class="footer">
     <div class="footer__container container py-4">
         <h3 class="footer__title p-4 px-md-5 mx-md-5 text-center">Download appen nu, og begynd at spare på miljøet og din pengepung</h3>
-
         <div class="footer__buttons d-flex align-items-start flex-column align-items-center">
             <a href="#" class="main-btn  my-2 d-flex align-items-center justify-content-center text-decoration-none">
                 <i class="fab fa-apple fa-lg me-2"></i>
@@ -92,7 +85,6 @@
                 <p class="">Download til Android</p>
             </a>
         </div>
-
         <div class="footer__social d-flex justify-content-center mt-4 mb-5">
             <a href="#" class="text-body text-decoration-none mx-2">
                 <img src="img/facebook.png" alt="instagram" class="social-icon">
@@ -101,15 +93,12 @@
                 <img src="img/instagram.png" alt="instagram" class="social-icon">
             </a>
         </div>
-
         <div class="footer__copyright d-flex justify-content-center">
             <p class="copyright__text">©Copyright Eatit 2021</p>
         </div>
     </div>
 </section>
-
     <script src="https://kit.fontawesome.com/d7a71e7a7e.js" crossorigin="anonymous"></script>
     <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-

@@ -12,7 +12,6 @@
     <meta name="og:type" content="article">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
-    <link href="css/blog.css" rel="stylesheet" type="text/css">
     <link rel="icon" href="img/Favicon.png" type="icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -38,7 +37,7 @@
         <div class="blog__line__divider"></div>
     </div>
     <div class="blog__main__content container px-4">
-        <img src="img/card-1.jpg" alt="hjemmelavet is" class="my-5">
+        <img src="img/is.webp" alt="hjemmelavet is" class="my-5">
         <h1 class="blog__subtitle">Hjemmelavet is</h1>
         <div class="blog__text fs-5 my-5">
             <span class="fw-bold my-5">Tilberedningstid ca. 15 min.</span>
@@ -96,10 +95,10 @@
         </div>
         <div class="footer__social d-flex justify-content-center mt-4 mb-5">
             <a href="#" class="text-body text-decoration-none mx-2">
-                <img src="img/facebook.png" alt="instagram" class="social-icon">
+                <img src="img/facebook.webp" alt="instagram" class="social-icon">
             </a>
             <a href="#" class="text-body text-decoration-none mx-2">
-                <img src="img/instagram.png" alt="instagram" class="social-icon">
+                <img src="img/instagram.webp" alt="instagram" class="social-icon">
             </a>
         </div>
         <div class="footer__copyright d-flex justify-content-center">

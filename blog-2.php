@@ -87,10 +87,10 @@
         </div>
         <div class="footer__social d-flex justify-content-center mt-4 mb-5">
             <a href="#" class="text-body text-decoration-none mx-2">
-                <img src="img/facebook.png" alt="instagram" class="social-icon">
+                <img src="img/facebook.webp" alt="instagram" class="social-icon">
             </a>
             <a href="#" class="text-body text-decoration-none mx-2">
-                <img src="img/instagram.png" alt="instagram" class="social-icon">
+                <img src="img/instagram.webp" alt="instagram" class="social-icon">
             </a>
         </div>
         <div class="footer__copyright d-flex justify-content-center">

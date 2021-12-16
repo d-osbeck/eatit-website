@@ -16,7 +16,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100&display=swap" rel="stylesheet">
-    <link rel="preload" as="image" href="img/">
+    <link rel="preload" as="image" href="img/hero.webp">
+    <link rel="preload" as="image" href="img/mockup.webp">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body class="bg-primary">
@@ -46,7 +47,7 @@
                 </div>
             </div>
             <div class="hero__mockup__container d-flex justify-content-center pt-4 col-lg">
-                <img src="img/mockup.png" class="phone__mockup h-auto" alt="iphone mockup app">
+                <img src="img/mockup.webp" class="phone__mockup h-auto" alt="iphone mockup app">
             </div>
         </div>
     </div>
@@ -59,7 +60,7 @@
                 den samlede mængde mad der i alt udgør 814.000 ton.
                 Det kan vi gøre meget bedre og samtidig hjælpe vores egen økonomi på vej.
             </p>
-            <img src="img/infografik.png" alt="madspild infografik" class="py-5">
+            <img src="img/infografik.webp" alt="madspild infografik" class="py-5">
         </div>
     </div>
     <svg class="info__wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#cfe0ca" fill-opacity="1" d="M0,224L24,186.7C48,149,96,75,144,80C192,85,240,171,288,170.7C336,171,384,85,432,42.7C480,0,528,0,576,42.7C624,85,672,171,720,197.3C768,224,816,192,864,192C912,192,960,224,1008,218.7C1056,213,1104,171,1152,176C1200,181,1248,235,1296,256C1344,277,1392,267,1416,261.3L1440,256L1440,320L1416,320C1392,320,1344,320,1296,320C1248,320,1200,320,1152,320C1104,320,1056,320,1008,320C960,320,912,320,864,320C816,320,768,320,720,320C672,320,624,320,576,320C528,320,480,320,432,320C384,320,336,320,288,320C240,320,192,320,144,320C96,320,48,320,24,320L0,320Z"></path></svg>
@@ -157,7 +158,6 @@
 <section class="footer">
     <div class="footer__container container py-4">
         <h3 class="footer__title p-4 px-md-5 mx-md-5 text-center">Download appen nu, og begynd at spare på miljøet og din pengepung</h3>
-
         <div class="footer__buttons d-flex align-items-start flex-column align-items-center">
             <a href="#" class="main-btn  my-2 d-flex align-items-center justify-content-center text-decoration-none">
                 <i class="fab fa-apple fa-lg me-2"></i>
@@ -170,10 +170,10 @@
         </div>
         <div class="footer__social d-flex justify-content-center mt-4 mb-5">
             <a href="#" class="text-body text-decoration-none mx-2">
-                <img src="img/facebook.png" alt="instagram" class="social-icon">
+                <img src="img/facebook.webp" alt="instagram" class="social-icon">
             </a>
             <a href="#" class="text-body text-decoration-none mx-2">
-                <img src="img/instagram.png" alt="instagram" class="social-icon">
+                <img src="img/instagram.webp" alt="instagram" class="social-icon">
             </a>
         </div>
         <div class="footer__copyright d-flex justify-content-center">

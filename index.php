@@ -43,6 +43,9 @@
                     <a href="#" class="text-hero-text text-decoration-none mx-2 mx-md-3">
                         <i class="fab fa-instagram"></i>
                     </a>
+                    <a href="#" class="text-hero-text text-decoration-none mx-2 mx-md-3">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
                 </div>
             </div>
             <div class="hero__mockup__container d-flex justify-content-center pt-4 col-lg">
@@ -173,6 +176,9 @@
             </a>
             <a href="#" class="text-body text-decoration-none mx-2">
                 <img src="img/instagram.webp" alt="instagram" class="social-icon">
+            </a>
+            <a href="#" class="text-body text-decoration-none mx-2">
+                <img src="img/linkedin.webp" alt="linkedin" class="social-icon">
             </a>
         </div>
         <div class="footer__copyright d-flex justify-content-center">

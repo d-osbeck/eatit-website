@@ -128,24 +128,24 @@
                         <div class="blog__card__favorite">
                             <div class="card__favorite__wrapper text-decoration-none text-hero-text"><p class="favorite-count">35</p><i class="fa fa-heart-o fa-lg"></i></div>
                         </div>
-                    </div
+                    </div>
                     <div class="blog__card__content p-4">
                         <span class="blog__card__author fs-5">Camilla Hilm</span>
                         <h1 class="blog__card__title pb-2">Nytårsforsættet</h1>
 
                         <div class="blog__card__categories d-flex flex-wrap pb-3">
                             <div class="category__item py-2 px-3 mt-1 me-1 me-lg-2">
-                                <p>Spar penge</p>
+                                <p>Opskrift</p>
                             </div>
                             <div class="category__item py-2 px-3 mt-1 me-1 me-lg-2">
-                                <p>Råd</p>
+                                <p>Dessert</p>
                             </div>
                             <div class="category__item py-2 px-3 mt-1 me-1 me-lg-2">
-                                <p>Nytår</p>
+                                <p>Gode tips</p>
                             </div>
                         </div>
                         <div class="blog__card__content__wrapper">
-                            <p class="blog__card__text pb-4">Det er svært at holde, men bare rolig, hjælpen er på vej!</p>
+                            <p class="blog__card__text pb-4">Det er svært at holde, men bare tag den med ro, hjælpen er på vej!</p>
                             <p class="text-center">Læs mere<i class="fas fa-arrow-right ms-1"></i></p>
                         </div>
                     </div>
